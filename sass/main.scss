@@ -1,0 +1,13 @@
+@import '_header';
+@import '_main';
+@import '_popup';
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top:12em;
+}
